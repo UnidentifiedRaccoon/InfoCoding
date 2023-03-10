@@ -1,0 +1,19 @@
+{
+  "name": "lab_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts-node": "ts-node text.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bmp-js": "^0.1.0",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
